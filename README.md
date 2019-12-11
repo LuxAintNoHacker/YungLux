@@ -1,6 +1,6 @@
-# TitaniumPhoenix V2
+LuxV2
 
-A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
+Made for Students who absolutley hate school
 
 Initial Release Date: 02/11/2019.
 
